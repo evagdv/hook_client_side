@@ -1,1 +1,1 @@
-# hook_client_side
+Repositorio para practicar los hooks del lado del cliente

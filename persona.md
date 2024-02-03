@@ -3,7 +3,7 @@
 ## API
 Documentación con JSDoc
 
-**Author**: Eva Gómez de Villar <egomezdevillar77@iescastelar.com>  
+**Author**: Eva Gómez de Villar Banderas <egomezdevillar77@iescastelar.com>  
 
 * [API](#module_API)
     * [~Persona](#module_API..Persona)

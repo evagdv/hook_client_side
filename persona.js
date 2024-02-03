@@ -1,7 +1,7 @@
 /**
  * Documentación con JSDoc
  * @module API
- * @author Eva Gómez de Villar <egomezdevillar77@iescastelar.com>
+ * @author Eva Gómez de Villar Banderas <egomezdevillar77@iescastelar.com>
  */
 
 /**
